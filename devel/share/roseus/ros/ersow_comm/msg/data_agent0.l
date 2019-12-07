@@ -1,0 +1,1 @@
+/home/khoirlnwar/COMM_workspace/devel/.private/ersow_comm/share/roseus/ros/ersow_comm/msg/data_agent0.l

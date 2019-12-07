@@ -1,0 +1,8 @@
+prefix=/home/khoirlnwar/COMM_workspace/install
+
+Name: ersow_comm
+Description: Description of ersow_comm
+Version: 0.0.0
+Cflags: -I/home/khoirlnwar/COMM_workspace/install/include
+Libs: -L/home/khoirlnwar/COMM_workspace/install/lib -lersow_comm
+Requires: roscpp std_msgs message_runtime std_msgs

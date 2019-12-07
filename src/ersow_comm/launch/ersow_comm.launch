@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="ersow_comm" type="strategy_node" name="strategy" launch-prefix="xterm -e" />		
+	<node pkg="ersow_comm" type="comm_node" name="comm" launch-prefix="xterm -e" />			
+</launch>

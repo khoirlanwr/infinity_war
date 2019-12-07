@@ -1,0 +1,6 @@
+devel_space: /home/khoirlnwar/COMM_workspace/devel
+install: false
+install_space: /home/khoirlnwar/COMM_workspace/install
+profile: default
+source_space: /home/khoirlnwar/COMM_workspace/src
+workspace: /home/khoirlnwar/COMM_workspace

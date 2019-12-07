@@ -1,0 +1,72 @@
+[35m[1mScanning dependencies of target _ersow_comm_generate_messages_check_deps_data_agent3[0m
+[35m[1mScanning dependencies of target _ersow_comm_generate_messages_check_deps_data_agent1[0m
+[  0%] Built target _ersow_comm_generate_messages_check_deps_data_agent3
+[  0%] Built target _ersow_comm_generate_messages_check_deps_data_agent1
+[35m[1mScanning dependencies of target _ersow_comm_generate_messages_check_deps_data_agent0[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target _ersow_comm_generate_messages_check_deps_data_agent2[0m
+[  0%] Built target _ersow_comm_generate_messages_check_deps_data_agent0
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _ersow_comm_generate_messages_check_deps_data_agent2
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target ersow_comm_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  3%] [34m[1mGenerating C++ code from ersow_comm/data_agent1.msg[0m
+[  6%] [34m[1mGenerating C++ code from ersow_comm/data_agent2.msg[0m
+[35m[1mScanning dependencies of target ersow_comm_generate_messages_py[0m
+[ 10%] [34m[1mGenerating C++ code from ersow_comm/data_agent0.msg[0m
+[ 13%] [34m[1mGenerating Python from MSG ersow_comm/data_agent1[0m
+[ 16%] [34m[1mGenerating C++ code from ersow_comm/data_agent3.msg[0m
+[ 20%] [34m[1mGenerating Python from MSG ersow_comm/data_agent2[0m
+[ 20%] Built target ersow_comm_generate_messages_cpp
+[35m[1mScanning dependencies of target ersow_comm_generate_messages_lisp[0m
+[ 23%] [34m[1mGenerating Python from MSG ersow_comm/data_agent0[0m
+[ 26%] [34m[1mGenerating Lisp code from ersow_comm/data_agent1.msg[0m
+[ 30%] [34m[1mGenerating Lisp code from ersow_comm/data_agent2.msg[0m
+[ 33%] [34m[1mGenerating Lisp code from ersow_comm/data_agent0.msg[0m
+[ 36%] [34m[1mGenerating Python from MSG ersow_comm/data_agent3[0m
+[ 40%] [34m[1mGenerating Lisp code from ersow_comm/data_agent3.msg[0m
+[ 40%] Built target ersow_comm_generate_messages_lisp
+[35m[1mScanning dependencies of target ersow_comm_generate_messages_eus[0m
+[ 43%] [34m[1mGenerating EusLisp code from ersow_comm/data_agent1.msg[0m
+[ 46%] [34m[1mGenerating Python msg __init__.py for ersow_comm[0m
+[ 50%] [34m[1mGenerating EusLisp code from ersow_comm/data_agent2.msg[0m
+[ 50%] Built target ersow_comm_generate_messages_py
+[35m[1mScanning dependencies of target ersow_comm_generate_messages_nodejs[0m
+[ 53%] [34m[1mGenerating Javascript code from ersow_comm/data_agent1.msg[0m
+[ 56%] [34m[1mGenerating EusLisp code from ersow_comm/data_agent0.msg[0m
+[ 60%] [34m[1mGenerating Javascript code from ersow_comm/data_agent2.msg[0m
+[ 63%] [34m[1mGenerating EusLisp code from ersow_comm/data_agent3.msg[0m
+[ 66%] [34m[1mGenerating Javascript code from ersow_comm/data_agent0.msg[0m
+[ 70%] [34m[1mGenerating Javascript code from ersow_comm/data_agent3.msg[0m
+[ 73%] [34m[1mGenerating EusLisp manifest code for ersow_comm[0m
+[ 73%] Built target ersow_comm_generate_messages_nodejs
+[35m[1mScanning dependencies of target comm_node[0m
+[ 76%] [32mBuilding CXX object CMakeFiles/comm_node.dir/src/comm.cpp.o[0m
+[ 76%] Built target ersow_comm_generate_messages_eus
+[35m[1mScanning dependencies of target strategy_node[0m
+[ 80%] [32mBuilding CXX object CMakeFiles/strategy_node.dir/src/strategy.cpp.o[0m
+[01m[K/home/khoirlnwar/COMM_workspace/src/ersow_comm/src/comm.cpp:[m[K In function ‘[01m[Kint main(int, char**)[m[K’:
+[01m[K/home/khoirlnwar/COMM_workspace/src/ersow_comm/src/comm.cpp:243:18:[m[K [01;35m[Kwarning: [m[KISO C++ forbids converting a string constant to ‘[01m[Kchar*[m[K’ [-Wwrite-strings]
+  referee.address = "172.16.0.11";
+[01;32m[K                  ^[m[K
+[ 86%] [32m[1mLinking CXX executable /home/khoirlnwar/COMM_workspace/devel/.private/ersow_comm/lib/ersow_comm/strategy_node[0m
+[ 86%] [32m[1mLinking CXX executable /home/khoirlnwar/COMM_workspace/devel/.private/ersow_comm/lib/ersow_comm/comm_node[0m
+[ 86%] Built target strategy_node
+[ 86%] Built target comm_node
+[35m[1mScanning dependencies of target ratdma_node[0m
+[35m[1mScanning dependencies of target learn_node[0m
+[ 90%] [32mBuilding CXX object CMakeFiles/ratdma_node.dir/src/ratdma.cpp.o[0m
+[ 93%] [32mBuilding CXX object CMakeFiles/learn_node.dir/src/learn.cpp.o[0m
+[ 96%] [32m[1mLinking CXX executable /home/khoirlnwar/COMM_workspace/devel/.private/ersow_comm/lib/ersow_comm/learn_node[0m
+[ 96%] Built target learn_node
+[35m[1mScanning dependencies of target ersow_comm_generate_messages[0m
+[100%] [32m[1mLinking CXX executable /home/khoirlnwar/COMM_workspace/devel/.private/ersow_comm/lib/ersow_comm/ratdma_node[0m
+[100%] Built target ersow_comm_generate_messages
+[100%] Built target ratdma_node

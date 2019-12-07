@@ -1,0 +1,1 @@
+/home/khoirlnwar/COMM_workspace/devel/.private/ersow_comm/lib/python2.7/dist-packages/ersow_comm/msg/_data_agent3.py
